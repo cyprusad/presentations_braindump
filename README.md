@@ -17,3 +17,4 @@
 ### Resources found elsewhere
 - Zach Holman's [speaking.io](http://speaking.io) is a great place to start
 - Oren Klaff's [Pitch Anything](http://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854) is another great resource
+- Amy Jen Su's [Own The Room](http://www.amazon.com/Own-Room-Discover-Signature-Leadership/dp/1422183939)

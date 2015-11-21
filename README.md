@@ -1,6 +1,6 @@
 ## Talking points about public speaking
 
-### Checklists
+### Preaface
 - Find your voice
 - Practice your delivery
 
